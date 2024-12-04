@@ -76,7 +76,7 @@ Human vs. Model Accuracy:
 Analyzed model performance compared to human classification accuracy.
 Investigated correlations between human accuracy and model probabilities.
 
-##Insights and Future Work
+## Insights and Future Work
 
 Feature Engineering: Adding derived features or domain-specific transformations may enhance accuracy.
 Advanced Models: Exploring neural networks or gradient-boosting techniques like XGBoost.
